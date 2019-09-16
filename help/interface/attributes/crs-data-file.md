@@ -110,7 +110,7 @@ The same file viewed in a text editor:
    <td colname="col2"> <p> 
      <ul id="ul_E157EE6F98914EADA0C103D1D1E705D3"> 
       <li id="li_84FBD455DD164A28AC16F4A5AB19E4B3">Maximum file size limit for FTP is 4 GB for each upload. </li> 
-      <li>Minimum file size limit for 10 mb for each upload. </li>
+      <li>The recommended minimum file size is 10 mb for each upload. </li>
       <li>You can upload one file every half hour. </li>
       <li id="li_B69A20C51D824727AA99C1F6F78537A4"> You should drop your <span class="filepath"> .csv </span> (and <span class="filepath"> .fin </span>) file in the root folder of the FTP site. </li> 
      </ul> </p> <p> <p>Important:  The total allowed space for the FTP account is 40 GB. It is your responsibility to delete processed files. </p> </p> </td> 
